@@ -1,0 +1,35 @@
+.headerText{
+     display:inline-block;
+     /* flex-direction: row; */
+     color:black;
+  }
+  .headerBoldText{
+    font-size:x-large;
+    font-weight:bold;
+  }
+
+  .showHide {
+    background-color:#474949;
+    color: white;
+    cursor: pointer;
+    padding: 12px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  .showSpanDesing {
+    background-color:#474949;
+    color: white;
+    cursor: pointer;
+    padding: 3px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  .highlight{
+    background-color: yellow;
+}

@@ -1,0 +1,12 @@
+.headerText{
+     display:inline-block;
+     /* flex-direction: row; */
+     color:gray;
+  }
+  .headerBoldText{
+    font-size:x-large;
+    font-weight:bold;
+  }
+.tableBackSet{
+  background: linear-gradient(90deg, #F9EBEA, #D7DBDD) !important;
+}

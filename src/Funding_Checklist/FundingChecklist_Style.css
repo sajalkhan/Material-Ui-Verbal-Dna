@@ -1,0 +1,72 @@
+.headerText{
+     display:inline-block;
+     /* flex-direction: row; */
+     color:gray;
+  }
+  .headerBoldText{
+    font-size:x-large;
+    /* font-weight:bold; */
+  }
+
+.btn_response {
+    background-color: #3f6791 !important; 
+    /* border: 1px solid !important; */
+    border-radius: 3px;
+    color: white !important;
+    padding: 8px 8px !important;
+    font-size: 14px !important;
+    cursor: pointer !important;
+  }
+.btn_responseYes {
+    background-color: #2e8a19 !important;
+    color: #ffffff;
+    border-color: #2e8a19 !important;
+    border-radius: 3px;
+    padding: 8px 8px !important;
+    font-size: 14px !important;
+    cursor: pointer !important;
+  }
+.btn_responseNo {
+  background-color: #9a0200 !important;
+  border-color: #9a0200 !important;
+    /* border: 1px solid !important; */
+    border-radius: 3px;
+    color: white !important;
+    padding: 8px 8px !important;
+    font-size: 14px !important;
+    cursor: pointer !important;
+  }
+.btn_responseNA{
+  background-color: #0e80e5 !important;
+  border-color: #0e80e5!important;
+    /* border: 1px solid !important; */
+    border-radius: 3px;
+    color: white !important;
+    padding: 8px 8px !important;
+    font-size: 14px !important;
+    cursor: pointer !important;
+  }
+
+
+.Completed {
+    background-color: #2e8a19 !important;
+    color: #ffffff;
+    border-color: #2e8a19 !important;
+    padding:8px;
+}
+.Open {
+    background-color: #9a0200 !important;
+    color: #ffffff;
+    border-color: #9a0200 !important;
+    padding:8px;
+}
+.Not_Applicable {
+    background-color: #0e80e5 !important;
+    color: #ffffff;
+    border-color: #0e80e5!important;
+    padding:8px;
+}
+.editItems{
+display:felx;
+flex-direction: row;
+}
